@@ -1,5 +1,8 @@
 # birthday-hot-100 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Billboard_logo.svg/1280px-Billboard_logo.svg.png" width=100 align="right">
 
+|<img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" width=25>|[Read this in English](https://github.com/Eric-Mendes/birthday-hot-100/blob/main/README.en.md "README.md in English")|
+|---|:--|
+
 ## Descubra como estava a Billboard Hot 100 no dia do seu aniversário!
 Este script é um web-scraper da página da Billboard que pega o Hot 100 chart no dia do seu aniversário, ou em qualquer dia que você definir.
 
