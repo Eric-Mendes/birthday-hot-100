@@ -17,4 +17,4 @@ path_to_save = '/.../BILLBOARD_HOT_100/billboard_hot_100_week_{day}-{month}-{yea
 2. Ficarei feliz se algum web dev quiser me ajudar a transformar isto em um site.
 
 ## Melhorias
-Não sei mexer com Docker (ainda). Se você souber e conseguir diminuir as install dependencies deste projeto está será uma ajuda muito bem vinda! Me chame no [LinkedIn](https://www.linkedin.com/in/eric-velasco-de-paula-mendes/ "Meu perfil no LinkedIn") para organizarmos isto.
+Não sei mexer com Docker (ainda). Se você souber e conseguir diminuir as install dependencies deste projeto esta será uma ajuda muito bem vinda! Me chame no [LinkedIn](https://www.linkedin.com/in/eric-velasco-de-paula-mendes/ "Meu perfil no LinkedIn") para organizarmos isto.
